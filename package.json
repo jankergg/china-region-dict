@@ -7,7 +7,7 @@
   "dependencies": {},
   "scripts": {
     "prepublish":"npm run compress",
-    "compress":""
+    "compress":"node compress.js"
   },
   "devDependencies": {
     "uglify-js": "^3.4.6"
