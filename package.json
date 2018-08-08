@@ -1,7 +1,7 @@
 {
   "name": "china-region-dict",
   "main": "dist/region.js",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "china-full-province-city-district",
   "author": "jankergg <jankergg@gmail.com>",
   "dependencies": {},
